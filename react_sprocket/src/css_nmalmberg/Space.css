@@ -1,0 +1,19 @@
+.Home, .Inventory {
+    background-color: blue;
+    color: white;
+    background-image: var(--bs-gradient);
+}
+.Create, .partDetails{
+    background-color: cornflowerblue;
+    background-image: var(--bs-gradient);
+    color: white
+}
+ #CreateTitle{
+    font-family: "Goudy Stout";
+
+}
+.footer{
+    font-weight: bold;
+    color: white;
+    background-color: blue;
+}

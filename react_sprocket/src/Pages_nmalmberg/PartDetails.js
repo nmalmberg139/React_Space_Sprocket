@@ -1,4 +1,4 @@
-import useFetch from "../RouterCRUD_31/useFetch";
+import useFetch from "../Pages_nmalmberg/useFetch";
 import {useNavigate, useParams} from "react-router-dom";
 import NavBar from "./NavBar";
 import {confirmAlert} from "react-confirm-alert";

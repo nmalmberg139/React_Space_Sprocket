@@ -1,9 +1,9 @@
 import {BrowserRouter, Routes, Route} from "react-router-dom";
 import SpaceHome from "./SpaceHome";
 import SpaceInventory from "./SpaceInventory";
-import NavBar from "../Navbar";
 import SpaceCreate from "./SpaceCreate";
 import PartDetails from "./PartDetails";
+import NavBar from "./NavBar";
 
 
 function SpaceSprockets(){

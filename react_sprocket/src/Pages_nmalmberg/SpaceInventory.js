@@ -1,6 +1,6 @@
 import NavBar from "./NavBar";
 import {useState} from "react";
-import useFetch from "../useFetch";
+import useFetch from "../Pages_nmalmberg/useFetch";
 import {useNavigate} from "react-router-dom";
 
 
