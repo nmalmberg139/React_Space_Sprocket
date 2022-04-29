@@ -1,0 +1,68 @@
+{
+  "sprockets": [
+    {
+      "id": "S101",
+      "category": "Sprocket",
+      "item": "Bicycle Sprocket",
+      "desc": "Industrial strength Sprocket useful for bike gears. Highly efficient gear changes",
+      "count": 234,
+      "cost": 9.99
+    },
+    {
+      "id": "S102",
+      "category": "Sprocket",
+      "item": "Electric Motor Bike Sprocket",
+      "desc": "Smooth gear changes with this aluminum alloy sprocket. Comes in Silver, gold or black",
+      "count": 921,
+      "cost": 16.99
+    },
+    {
+      "id": "S103",
+      "category": "Sprocket",
+      "item": "Rocket Sprocket",
+      "desc": "Use this baby to control your rocket ship. Shifts gears into hyperspace without any though",
+      "count": 1230,
+      "cost": 5099.99
+    },
+    {
+      "id": "S104",
+      "category": "Sprocket",
+      "item": "Jet Sprocket",
+      "desc": "Go into super fast mode quickly and without any energy at all. Comes in gold, blue, or yellow.",
+      "count": 1590,
+      "cost": 4999.99
+    },
+    {
+      "id": "S105",
+      "category": "Sprocket",
+      "item": "Boat Sprocket",
+      "desc": "Place this sprocket in the right place on your boat and it will float better. We are just not sure where to put it.",
+      "count": 199,
+      "cost": 19.99
+    },
+    {
+      "id": "C101",
+      "category": "Cog",
+      "item": "Bicycle Cog",
+      "desc": "Use this special bike cog to do cog things on a bike. Its so useful we don't even list the uses",
+      "count": 200,
+      "cost": 12.99
+    },
+    {
+      "id": "C102",
+      "category": "Cog",
+      "item": "Rocket Cog",
+      "desc": "Space this Cog in a special place on your rocket and you can do amazing things. Comes in Blue only",
+      "count": 1200,
+      "cost": 2999.99
+    },
+    {
+      "id": "C103",
+      "category": "Cog",
+      "item": "Jet Cog",
+      "desc": "We are not sure why you would want a cog on a jet but hey we got them. Maybe you can figure out something to do with them.",
+      "count": 9999,
+      "cost": 199.99
+    }
+  ]
+}
