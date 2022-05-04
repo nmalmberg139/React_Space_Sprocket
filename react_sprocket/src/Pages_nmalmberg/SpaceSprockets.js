@@ -4,8 +4,6 @@ import SpaceInventory from "./SpaceInventory";
 import SpaceCreate from "./SpaceCreate";
 import PartDetails from "./PartDetails";
 import NavBar from "./NavBar";
-import SpaceSales from "./SpaceSales";
-import SpaceCustomers from "./SpaceCustomers";
 
 
 function SpaceSprockets(){
@@ -18,8 +16,6 @@ function SpaceSprockets(){
                     <Route exact path="/sprockets" element={<SpaceInventory />} />
                     <Route exact path="/sprockets/:id" element={<PartDetails />} />
                     <Route exact path="/create" element={<SpaceCreate />} />
-                    <Route exact path="/customers" element={<SpaceCustomers />} />
-                    <Route exact path="/sales" element={<SpaceSales />} />
                     <Route exact path="/Nav" element={<NavBar />} />
                 </Routes>
             </BrowserRouter>

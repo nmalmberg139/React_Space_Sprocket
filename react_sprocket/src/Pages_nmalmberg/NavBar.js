@@ -14,10 +14,13 @@ function NavBar(){
                         <a className="nav-link" href="/create">Space Create</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="/customers">Customers</a>
+                        <a className="nav-link" href="http://127.0.0.1:8000/customers">Space Customers</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="/sales">Sales</a>
+                        <a className="nav-link" href="http://127.0.0.1:8000/sales">Space Sales</a>
+                    </li>
+                    <li className="nav-item">
+                        <a className="nav-link" href="http://127.0.0.1:8000/report">Space Report</a>
                     </li>
                 </ul>
             </nav>
