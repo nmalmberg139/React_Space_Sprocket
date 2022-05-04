@@ -13,6 +13,12 @@ function NavBar(){
                     <li className="nav-item">
                         <a className="nav-link" href="/create">Space Create</a>
                     </li>
+                    <li className="nav-item">
+                        <a className="nav-link" href="/customers">Customers</a>
+                    </li>
+                    <li className="nav-item">
+                        <a className="nav-link" href="/sales">Sales</a>
+                    </li>
                 </ul>
             </nav>
 

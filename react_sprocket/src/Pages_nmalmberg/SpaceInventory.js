@@ -6,7 +6,7 @@ import {useNavigate} from "react-router-dom";
 
 function SpaceInventory(){
     const[table, setTable] = useState("")
-    const {data : parts} = useFetch('http://localhost:8000/sprockets');
+    const {data : parts} = useFetch('http://127.0.0.1:8000/inventory');
     const navigate = useNavigate();
     function updateTable(val) {
         let opt = val.target.value;
